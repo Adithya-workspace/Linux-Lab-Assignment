@@ -1,16 +1,16 @@
 Question 1 - Linux Environment Verification
 
 1. Username:
-g_nishita_sri
+k_adithya_reddy
 
 2. Groups:
-g_nishita_sri adm cdrom sudo dip plugdev users
+k_adithya_reddy adm cdrom sudo dip plugdev users
 
 3. Current Shell:
 /bin/bash
 
 4. Current Working Directory:
-/home/g_nishita_sri/Linux-Lab-Assignment
+/home/k_adithya_reddy/Linux-Lab-Assignment
 
 5. Files and Directories:
 Question1
