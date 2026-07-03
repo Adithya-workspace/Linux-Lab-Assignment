@@ -14,7 +14,7 @@ notes.txt -> 600
 budget.txt -> 644
 
 Ownership:
-Owner: g_nishita_sri
+Owner: k_adithya_reddy
 
 Umask:
 0022
